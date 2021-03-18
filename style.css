@@ -25,6 +25,7 @@ body {
     background-color: #fddbd1;
     font-family: 'Montserrat', sans-serif;
     position: relative;
+    scroll-behavior: smooth;
 }
 .bg {
     width: 100%;
