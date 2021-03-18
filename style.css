@@ -18,14 +18,15 @@ table {border-collapse: collapse;border-spacing: 0;} /* tables still need 'cells
 textarea {overflow:auto;}
 /***** RESET *****/
 
-
+html {
+    scroll-behavior: smooth;
+}
 body {
     width: 100%;
     height: 200vh;
     background-color: #fddbd1;
     font-family: 'Montserrat', sans-serif;
     position: relative;
-    scroll-behavior: smooth;
 }
 .bg {
     width: 100%;
